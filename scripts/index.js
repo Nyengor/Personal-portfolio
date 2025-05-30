@@ -18,9 +18,3 @@ function goToSite() {
       window.location.href = "https://example.com"; 
     }
 
-// new Typed("#typed",{
-//     strings: ["Frontend Developer", "Photographer"],
-//     typeSpeed: 60,
-//     backSpeed: 30,
-//     loop: true,
-// });
