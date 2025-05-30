@@ -1,0 +1,71 @@
+/* *{
+    padding: 0;
+    margin:0;
+} */
+
+/* FOR ALL SECTIONS */
+/* .sectionAll {
+    background-image: url(/Images/image1.jpg);
+    background-position: center;
+    background-attachment: scroll;
+    background-size: cover;
+    height: 100vh;
+    width: 100%;
+} */
+
+
+/* SECTION 1 - NAVBAR
+.navbar {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    padding: 5px 5px;
+    background: transparent;
+} */
+
+/* .navbar h2 {
+    font-weight: bolder;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+     background: linear-gradient(to right, pink, violet);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+} */
+
+/* .nav-list {
+    display: flex;
+    flex-direction: row; */
+    /* gap: 3rem;
+    font-size: 20px;
+    font-weight: bold;
+    list-style-type: none; */
+    /* font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+     background: linear-gradient(to right, pink, violet);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+} */
+/* 
+.nav-list a{
+   text-decoration: none;
+   color: white;
+}
+
+.nav-list a:hover{
+    text-decoration: underline;
+} */
+
+
+/* SECTION 1- HERO SECTION */
+/* .heroSection{
+    color: white;
+} */
+
+/* .text-1 {
+    font-size: 15px;
+    border: 2px solid purple;
+    padding: 10px;
+}
+
+.text-2 {
+    font-weight: 800px;
+    font-size: 50px;
+} */
